@@ -22,4 +22,4 @@
 - Provides a single entry point for external access to the application.
 
 ## Persistent Volume & Persistent Volume Claim Template
-![Architecture Diagram](.\assets\volume\pv.png)
+![Architecture Diagram](./assets/volume/pv.png)
